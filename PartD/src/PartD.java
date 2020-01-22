@@ -10,6 +10,8 @@ public class PartD {
 		
 		System.out.println("Hello, my name is " + name);
 		System.out.println("My favourite colour is "+ favCol);
+		System.out.println("My favourite mode of transport is "+ transport);
+	
 		
 	
 		
